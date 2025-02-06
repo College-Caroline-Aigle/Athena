@@ -54,6 +54,7 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.rdbAjoutCodeBarreNon = new System.Windows.Forms.RadioButton();
             this.rdbAjoutCodeBarreOui = new System.Windows.Forms.RadioButton();
+            this.btnTuto = new System.Windows.Forms.Button();
             this.pnlEdtPhoto.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbPhoto)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbCarteArriere)).BeginInit();
@@ -375,11 +376,26 @@
             this.rdbAjoutCodeBarreOui.UseVisualStyleBackColor = true;
             this.rdbAjoutCodeBarreOui.CheckedChanged += new System.EventHandler(this.rdbAjoutCodeBarreOui_CheckedChanged);
             // 
+            // btnTuto
+            // 
+            this.btnTuto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.btnTuto.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTuto.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
+            this.btnTuto.Location = new System.Drawing.Point(1620, 12);
+            this.btnTuto.Name = "btnTuto";
+            this.btnTuto.Size = new System.Drawing.Size(101, 40);
+            this.btnTuto.TabIndex = 23;
+            this.btnTuto.Text = "Tutoriel";
+            this.btnTuto.UseVisualStyleBackColor = false;
+            this.btnTuto.Click += new System.EventHandler(this.btnTuto_Click);
+            // 
             // FrmMultiplesCartesEdition
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
-            this.ClientSize = new System.Drawing.Size(1617, 875);
+            this.ClientSize = new System.Drawing.Size(1733, 875);
+            this.Controls.Add(this.btnTuto);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox1);
@@ -438,6 +454,7 @@
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.RadioButton rdbAjoutCodeBarreNon;
         private System.Windows.Forms.RadioButton rdbAjoutCodeBarreOui;
+        private System.Windows.Forms.Button btnTuto;
     }
 }
 

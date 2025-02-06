@@ -166,6 +166,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="forms\autre\frmTuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\autre\frmTuto.Designer.cs">
+      <DependentUpon>frmTuto.cs</DependentUpon>
+    </Compile>
     <Compile Include="forms\cartes d%27acces\ChampPersonnalisee.cs" />
     <Compile Include="Chemin.cs" />
     <Compile Include="Classe.cs" />
@@ -358,6 +364,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="forms\autre\frmSelectionneAjoutDansCarteAcces.resx">
       <DependentUpon>frmSelectionneAjoutDansCarteAcces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\autre\frmTuto.resx">
+      <DependentUpon>frmTuto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="forms\cartes d%27acces\frmCarteParClasseNiveau.resx">
       <DependentUpon>frmCarteParClasseNiveau.cs</DependentUpon>

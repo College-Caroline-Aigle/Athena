@@ -54,6 +54,7 @@
             this.label8 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnTuto = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbCarteArriere)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbCarteFace)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -391,12 +392,27 @@
             this.panel2.Size = new System.Drawing.Size(944, 404);
             this.panel2.TabIndex = 20;
             // 
+            // btnTuto
+            // 
+            this.btnTuto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.btnTuto.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTuto.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
+            this.btnTuto.Location = new System.Drawing.Point(1362, 12);
+            this.btnTuto.Name = "btnTuto";
+            this.btnTuto.Size = new System.Drawing.Size(101, 40);
+            this.btnTuto.TabIndex = 23;
+            this.btnTuto.Text = "Tutoriel";
+            this.btnTuto.UseVisualStyleBackColor = false;
+            this.btnTuto.Click += new System.EventHandler(this.btnTuto_Click);
+            // 
             // frmCarteProvisoire
             // 
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(1475, 934);
+            this.Controls.Add(this.btnTuto);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -447,6 +463,7 @@
         private System.Windows.Forms.RadioButton rdbParO;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button btnTuto;
     }
 }
 
