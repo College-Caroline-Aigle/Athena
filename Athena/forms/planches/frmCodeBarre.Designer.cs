@@ -47,6 +47,7 @@
             this.pbCodeBarre = new System.Windows.Forms.PictureBox();
             this.gbpRecherche = new System.Windows.Forms.GroupBox();
             this.lbRecherche = new System.Windows.Forms.ListBox();
+            this.btnTuto = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbPhoto)).BeginInit();
             this.gbpElements.SuspendLayout();
@@ -148,7 +149,7 @@
             this.lblCount.Name = "lblCount";
             this.lblCount.Size = new System.Drawing.Size(133, 28);
             this.lblCount.TabIndex = 15;
-            this.lblCount.Text = "aucuin";
+            this.lblCount.Text = "aucun";
             // 
             // btnValider
             // 
@@ -277,6 +278,20 @@
             this.lbRecherche.TabIndex = 1;
             this.lbRecherche.SelectedIndexChanged += new System.EventHandler(this.lbRecherche_SelectedIndexChanged);
             // 
+            // btnTuto
+            // 
+            this.btnTuto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.btnTuto.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTuto.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
+            this.btnTuto.Location = new System.Drawing.Point(1237, 9);
+            this.btnTuto.Name = "btnTuto";
+            this.btnTuto.Size = new System.Drawing.Size(101, 40);
+            this.btnTuto.TabIndex = 23;
+            this.btnTuto.Text = "Tutoriel";
+            this.btnTuto.UseVisualStyleBackColor = false;
+            this.btnTuto.Click += new System.EventHandler(this.btnTuto_Click);
+            // 
             // frmCodeBarre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -285,6 +300,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(1356, 662);
+            this.Controls.Add(this.btnTuto);
             this.Controls.Add(this.gbpRecherche);
             this.Controls.Add(this.pbCodeBarre);
             this.Controls.Add(this.btnReinitialiser);
@@ -334,6 +350,7 @@
         private System.Windows.Forms.CheckBox cbxNiveau4eme;
         private System.Windows.Forms.CheckBox cbxNiveau6eme;
         private System.Windows.Forms.CheckBox cbxNiveau5eme;
+        private System.Windows.Forms.Button btnTuto;
     }
 }
 

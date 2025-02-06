@@ -45,6 +45,7 @@
             this.clbClasse4eme = new System.Windows.Forms.CheckedListBox();
             this.clbClasse3eme = new System.Windows.Forms.CheckedListBox();
             this.gpbTriParClasses = new System.Windows.Forms.GroupBox();
+            this.btnTuto = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbPhoto)).BeginInit();
             this.gbxTriParNiveau.SuspendLayout();
             this.gpbTriParClasses.SuspendLayout();
@@ -254,11 +255,26 @@
             this.gpbTriParClasses.Text = "Recherche par classes : ";
             this.gpbTriParClasses.Enter += new System.EventHandler(this.gpbTriParClasses_Enter);
             // 
+            // btnTuto
+            // 
+            this.btnTuto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.btnTuto.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTuto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTuto.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
+            this.btnTuto.Location = new System.Drawing.Point(1397, 12);
+            this.btnTuto.Name = "btnTuto";
+            this.btnTuto.Size = new System.Drawing.Size(101, 40);
+            this.btnTuto.TabIndex = 40;
+            this.btnTuto.Text = "Tutoriel";
+            this.btnTuto.UseVisualStyleBackColor = false;
+            this.btnTuto.Click += new System.EventHandler(this.btnTuto_Click);
+            // 
             // frmCarteParClasseNiveau
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(1510, 712);
+            this.Controls.Add(this.btnTuto);
             this.Controls.Add(this.gpbTriParClasses);
             this.Controls.Add(this.gbxTriParNiveau);
             this.Controls.Add(this.label4);
@@ -300,6 +316,7 @@
         private System.Windows.Forms.CheckBox cbxNiveau4eme;
         private System.Windows.Forms.CheckBox cbxNiveau5eme;
         private System.Windows.Forms.CheckBox cbxNiveau6eme;
+        private System.Windows.Forms.Button btnTuto;
     }
 }
 

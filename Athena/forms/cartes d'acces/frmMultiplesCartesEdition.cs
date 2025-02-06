@@ -939,6 +939,12 @@ namespace CartesAcces2024
                 Edition.fondCarteNiveau(pbCarteFace, Globale.ListeEleveImpr[0]);
             }
         }
+
+        private void btnTuto_Click(object sender, EventArgs e)
+        {
+            frmTuto Tuto = new frmTuto(this.GetType().Name);
+            Tuto.Show();
+        }
     }
 }
 
