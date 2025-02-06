@@ -669,6 +669,8 @@ namespace CartesAcces2024
 
         private void rdbParO_CheckedChanged(object sender, EventArgs e)
         {
+            cbbClasse.Items.Clear();
+
             if (rdbParO.Checked == true)
             {
                 //cbbClasse.Enabled = false;
