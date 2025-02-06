@@ -520,6 +520,30 @@
     </Content>
     <Content Include="data\logo.png" />
     <Content Include="data\LogoAthena2025.png" />
+    <Content Include="data\PhotosTutos\photo_frmCarteParClasseNiveau.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmCarteProvisoire.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmCartesParListe.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmCodeBarre.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmImport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmMultiplesCartesEdition.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmPlanches0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\PhotosTutos\photo_frmPlanches1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Ghostscript\gsdll32.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
