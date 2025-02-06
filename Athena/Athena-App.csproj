@@ -433,7 +433,6 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="CartesAcces2024_TemporaryKey.pfx" />
     <None Include="Ghostscript\COPYING">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

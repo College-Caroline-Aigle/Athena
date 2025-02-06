@@ -80,6 +80,7 @@
             // btnDossier
             // 
             this.btnDossier.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.btnDossier.Enabled = false;
             this.btnDossier.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDossier.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDossier.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
@@ -89,6 +90,7 @@
             this.btnDossier.TabIndex = 3;
             this.btnDossier.Text = "📁 Ouvrir le dossier des photos";
             this.btnDossier.UseVisualStyleBackColor = false;
+            this.btnDossier.Visible = false;
             this.btnDossier.Click += new System.EventHandler(this.btnDossier_Click);
             // 
             // frmOptAvancees
