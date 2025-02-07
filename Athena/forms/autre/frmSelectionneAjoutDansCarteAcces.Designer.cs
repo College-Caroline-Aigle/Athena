@@ -37,6 +37,7 @@
             this.numPoliceChampAjoutee = new System.Windows.Forms.NumericUpDown();
             this.btnChoisirImage = new System.Windows.Forms.Button();
             this.btnValider = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.pnlOptions.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numPoliceChampAjoutee)).BeginInit();
             this.SuspendLayout();
@@ -136,6 +137,17 @@
             this.btnValider.UseVisualStyleBackColor = false;
             this.btnValider.Click += new System.EventHandler(this.btnValider_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(200)))), ((int)(((byte)(135)))));
+            this.label1.Location = new System.Drawing.Point(1174, 525);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(203, 68);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "Vous puvez double cliquer sur \r\nun champs personnalisé \r\najouté sur la carte pour" +
+    " \r\nl\'enlever.";
+            // 
             // frmSelectionneAjoutDansCarteAcces
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -143,6 +155,7 @@
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(1396, 681);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnValider);
             this.Controls.Add(this.btnChoisirImage);
             this.Controls.Add(this.pnlOptions);
@@ -155,6 +168,7 @@
             this.pnlOptions.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numPoliceChampAjoutee)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -167,6 +181,7 @@
         private System.Windows.Forms.NumericUpDown numPoliceChampAjoutee;
         private System.Windows.Forms.Button btnChoisirImage;
         private System.Windows.Forms.Button btnValider;
+        private System.Windows.Forms.Label label1;
     }
 }
 
