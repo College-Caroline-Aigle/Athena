@@ -48,6 +48,71 @@ Toute contribution est la bienvenue !*
 
 ---
 
+## 🦠 Contibuteurs
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/marcie1000>
+            <img src=https://avatars.githubusercontent.com/u/122089187?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Adélia B"/>
+            <br />
+            <sub style="font-size:14px"><b>Adélia B</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/Boulede987>
+            <img src=https://avatars.githubusercontent.com/u/171908190?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="MIEHE Alix"/>
+            <br />
+            <sub style="font-size:14px"><b>MIEHE Alix</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/gagaf7>
+            <img src=https://avatars.githubusercontent.com/u/145220548?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="gagaf7"/>
+            <br />
+            <sub style="font-size:14px"><b>gagaf7</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/lozycot>
+            <img src=https://avatars.githubusercontent.com/u/114075621?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="lozycot"/>
+            <br />
+            <sub style="font-size:14px"><b>lozycot</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/TheoMas>
+            <img src=https://avatars.githubusercontent.com/u/151865163?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Nirox"/>
+            <br />
+            <sub style="font-size:14px"><b>Nirox</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/OrangeZXZ>
+            <img src=https://avatars.githubusercontent.com/u/104271365?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="OrangeZXZ"/>
+            <br />
+            <sub style="font-size:14px"><b>OrangeZXZ</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/ShortLegsFox>
+            <img src=https://avatars.githubusercontent.com/u/100952577?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="ShortLegsFox"/>
+            <br />
+            <sub style="font-size:14px"><b>ShortLegsFox</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/ValgulNecron>
+            <img src=https://avatars.githubusercontent.com/u/39313199?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Valgul"/>
+            <br />
+            <sub style="font-size:14px"><b>Valgul</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
+---
+
 ## 📝 Licence
 Ce projet est distribué sous licence MIT. Pour plus d'informations, consultez le fichier `LICENSE` inclus dans le dépôt.
 
