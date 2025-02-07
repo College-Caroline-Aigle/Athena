@@ -806,7 +806,7 @@
             this.groupBox1.Size = new System.Drawing.Size(848, 294);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Urls de sites :";
+            this.groupBox1.Text = "Champs personnalisees ajoutés:";
             // 
             // label5
             // 
