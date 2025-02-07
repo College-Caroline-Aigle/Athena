@@ -23,12 +23,12 @@ Cette solution tout-en-un permet notamment de gérer efficacement les cartes d'a
 Rendez-vous sur la page des [Releases](https://github.com/College-Caroline-Aigle/Athena/releases)
 
 1. Téléchargez la dernière version disponible :
-- Option 1 : Installeur (.msi) - Recommandé pour une utilisation standard
-- Option 2 : Version portable (.zip) - Idéale pour les tests ou utilisation sans droits administrateur
+    - Option 1 : Installeur (.msi) - Recommandé pour une utilisation standard
+    - Option 2 : Version portable (.zip) - Idéale pour les tests ou utilisation sans droits administrateur
 
 2. Installation :
-- Via l'installeur : Lancez le .msi et suivez l'assistant
-- Version portable : Extrayez l'archive où vous le souhaitez
+    - Via l'installeur : Lancez le .msi et suivez l'assistant
+    - Version portable : Extrayez l'archive où vous le souhaitez
 
 ---
 
