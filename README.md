@@ -116,8 +116,6 @@ Toute contribution est la bienvenue !*
 ## 📝 Licence
 Ce projet est distribué sous licence MIT. Pour plus d'informations, consultez le fichier `LICENSE` inclus dans le dépôt.
 
-Voici une version corrigée et améliorée de votre texte :
-
 ## 🧷 Anciens liens
 Ce projet est un fork d’un projet anciennement appelé **CarteDaces2024**.
 Vous pouvez consulter les anciens liens ci-dessous :  
