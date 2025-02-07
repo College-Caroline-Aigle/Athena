@@ -50,7 +50,7 @@
             this.lblChargement.ForeColor = System.Drawing.Color.White;
             this.lblChargement.Location = new System.Drawing.Point(12, 12);
             this.lblChargement.Name = "lblChargement";
-            this.lblChargement.Size = new System.Drawing.Size(120, 17);
+            this.lblChargement.Size = new System.Drawing.Size(156, 17);
             this.lblChargement.TabIndex = 1;
             this.lblChargement.Text = "Chargement en cours...";
             // 
@@ -74,6 +74,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(540, 123);
             this.ControlBox = false;

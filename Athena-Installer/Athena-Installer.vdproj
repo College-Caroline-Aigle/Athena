@@ -117,6 +117,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_57D751215DDC49B39414D32D6CE3637D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_59CDDE86A36CD0A103967EAFF8BDC94A"
         "OwnerKey" = "8:_3B3E097B5F9B41A8983C6E5507194468"
         "MsmSig" = "8:_UNDEFINED"
@@ -201,6 +207,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_9EEEAB63843D4215895A805F1F2B7033"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A05B2B141ABA4ED693F10CD6A1AB1C74"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -208,6 +220,30 @@
         "Entry"
         {
         "MsmKey" = "8:_A27511F118134C06963EDE31216BB9B3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A37F3DE4A8BC45599BA8DF741E56D718"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A459875A384B442180E0EEADA28BC448"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5A8595101544A8C864D0CE0BE1B1098"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AD046CFCE9B14305BC579342BB750220"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -226,6 +262,12 @@
         "Entry"
         {
         "MsmKey" = "8:_C23D0E8471354FFAAA346C8B0EB46524"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C6A15E683B424C02A5D4BB1F36508AC2"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -281,6 +323,12 @@
         {
         "MsmKey" = "8:_E4D4D4BE35A7E847AB0152074F73AAD4"
         "OwnerKey" = "8:_3B3E097B5F9B41A8983C6E5507194468"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E61D5905849C4BBB85B16B79FE2CF3BA"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -764,6 +812,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_57D751215DDC49B39414D32D6CE3637D"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmCarteProvisoire.png"
+            "TargetName" = "8:photo_frmCarteProvisoire.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_59CDDE86A36CD0A103967EAFF8BDC94A"
             {
             "AssemblyRegister" = "3:1"
@@ -1077,6 +1145,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9EEEAB63843D4215895A805F1F2B7033"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmMultiplesCartesEdition.png"
+            "TargetName" = "8:photo_frmMultiplesCartesEdition.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A05B2B141ABA4ED693F10CD6A1AB1C74"
             {
             "SourcePath" = "8:..\\Athena\\data\\image\\edition.jpg"
@@ -1103,6 +1191,86 @@
             "TargetName" = "8:emploi_du_temps_vierge.png"
             "Tag" = "8:"
             "Folder" = "8:_7E946C5BF09B48E188A2D291B80021C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A37F3DE4A8BC45599BA8DF741E56D718"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmCarteParClasseNiveau.png"
+            "TargetName" = "8:photo_frmCarteParClasseNiveau.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A459875A384B442180E0EEADA28BC448"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmCodeBarre.png"
+            "TargetName" = "8:photo_frmCodeBarre.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5A8595101544A8C864D0CE0BE1B1098"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmPlanches1.png"
+            "TargetName" = "8:photo_frmPlanches1.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AD046CFCE9B14305BC579342BB750220"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmCartesParListe.png"
+            "TargetName" = "8:photo_frmCartesParListe.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1154,6 +1322,26 @@
             "TargetName" = "8:config.xml"
             "Tag" = "8:"
             "Folder" = "8:_7E946C5BF09B48E188A2D291B80021C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C6A15E683B424C02A5D4BB1F36508AC2"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmImport.png"
+            "TargetName" = "8:photo_frmImport.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1341,6 +1529,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E61D5905849C4BBB85B16B79FE2CF3BA"
+            {
+            "SourcePath" = "8:..\\Athena\\data\\PhotosTutos\\photo_frmPlanches0.png"
+            "TargetName" = "8:photo_frmPlanches0.png"
+            "Tag" = "8:"
+            "Folder" = "8:_343B7725454D495D897229FC9BC396BD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA299C6A2C644237B7F6E705D0EC70BF"
             {
             "SourcePath" = "8:..\\Athena\\Ghostscript\\gswin32c.exe"
@@ -1501,6 +1709,17 @@
                     "Property" = "8:_ACE225A360104877932E8A414ABD3FB0"
                         "Folders"
                         {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_343B7725454D495D897229FC9BC396BD"
+                            {
+                            "Name" = "8:PhotosTutos"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_C58B55F0DCC9462D8E3D4238F6745075"
+                                "Folders"
+                                {
+                                }
+                            }
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_6B2929A292524F06B3F537E9025C4B56"
                             {
                             "Name" = "8:image"
@@ -1587,15 +1806,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Athena"
-        "ProductCode" = "8:{BF5F47A2-CEF8-4F2E-A082-F61F5E75405F}"
-        "PackageCode" = "8:{F9697CB0-6B20-41F4-801C-C6595F26A474}"
+        "ProductCode" = "8:{189AB255-1B82-4AFE-8464-10D05441EC59}"
+        "PackageCode" = "8:{3F8A8849-BB45-4563-9245-9433C3AB5C83}"
         "UpgradeCode" = "8:{1F5D6C84-E971-4D9E-8047-1FFC61B3F013}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:2.3.0"
+        "ProductVersion" = "8:2.4.0"
         "Manufacturer" = "8:College Caroline Aigle"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
