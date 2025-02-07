@@ -30,12 +30,6 @@ Pour contribuer au projet, suivez ces étapes :
    - Clonage direct avec Visual Studio ou GitHub Desktop
    - Clonage grâce à la commande git `git clone https://github.com/College-Caroline-Aigle/Athena.git`
 
-3. Premier lancement :
-   - Démarrez l'application une première fois (une erreur initiale est normale)
-   - Naviguez vers `.../Athena/CarteDaces2024/bin/debug/database`
-   - Supprimez le fichier de base de données généré lors du premier lancement
-   - Redémarrez l'application
-
 *Athena est maintenu par des stagiaires du Collège Caroline Aigle et la communauté.
 Toute contribution est la bienvenue !*
 
