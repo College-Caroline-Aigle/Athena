@@ -117,7 +117,7 @@ Toute contribution est la bienvenue !*
 Ce projet est distribué sous licence MIT. Pour plus d'informations, consultez le fichier `LICENSE` inclus dans le dépôt.
 
 ## 🧷 Anciens liens
-Ce projet est un fork d’un projet anciennement appelé **CarteDaces**.
+Ce projet est un fork d’un projet anciennement appelé **CarteDacces**.
 Vous pouvez consulter les anciens liens ci-dessous :  
 - [CarteAccesAigle](https://github.com/TheoMas/CarteAccesAigle2024)  
-- [CarteDaces](https://github.com/ValgulNecron/appStage)
+- [CarteDacces](https://github.com/ValgulNecron/appStage)
